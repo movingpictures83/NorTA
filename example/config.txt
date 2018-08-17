@@ -1,0 +1,2 @@
+Prefix plugins/NorTA/example/
+Plugin NorTA inputfile abund.csv outputfile abund.norta
