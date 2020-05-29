@@ -1,5 +1,6 @@
 library(SpiecEasi)
 
+set.seed(1234)
 #p_value <- 0.01;
 #libs <- c("Hmisc");
 #lapply(libs, require, character.only=T);
