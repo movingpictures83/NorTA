@@ -2,7 +2,8 @@
 # Language: R
 # Input:  CSV (file of initial counts)
 # Output: PREFIX (two files, one with correlations and the other with synthetic counts)
-# Tested with: PluMA 1.0, R 3.2
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: SpiecEasi_1.0.7
 
 PluMA plugin that produces a synthetic set of samples and counts using the 
 Normal To Anything (NorTA) method.
